@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+	 void nums ()
+	 {
+		int n , t = 0;
+		while t
